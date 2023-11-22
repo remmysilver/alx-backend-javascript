@@ -1,4 +1,3 @@
-
 /**
  * Contains the miscellaneous route handlers.
  * @author Bezaleel Olakunori <https://github.com/B3zaleel>
